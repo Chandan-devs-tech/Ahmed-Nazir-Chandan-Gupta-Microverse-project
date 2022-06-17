@@ -18,3 +18,7 @@
         align-items: center;
         background-color: #eee;
       } 
+      input[type="submit"]:hover {
+        background-color: orange;
+        transition: background-color 1s;
+      }
